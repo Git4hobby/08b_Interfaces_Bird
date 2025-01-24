@@ -12,7 +12,4 @@ public class Bird implements Flyable, IFeathers{
         return "I'm a Bird, I have cleaned nice Feathers!";
     }
 
-    
-
-
 }
